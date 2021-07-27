@@ -24,3 +24,11 @@ Route::get('about', function () {
 Route::get('contact', function () {
     return view('pages.contact');
 });
+
+Route::get('pricing', function () {
+    return view('pages.pricing');
+});
+
+Route::get('how-it-works', function () {
+    return view('pages.howitworks');
+});
