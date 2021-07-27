@@ -1,7 +1,7 @@
 <div class="container-fluid pr-lg--30 pl-lg--30">
     <nav class="navbar site-navbar offcanvas-active navbar-expand-lg navbar-light">
       <!-- Brand Logo-->
-      <div class="brand-logo"><a href="{{ url('/') }}"><img src="{{ asset('/assets/image/png/l1-logo.png') }}" alt=""></a></div>
+      <div class="brand-logo"><a href="{{ url('/') }}"><img src="{{ asset('/assets/image/png/logokopen.png?ver=4') }}" alt=""></a></div>
       <div class="collapse navbar-collapse" id="mobile-menu">
         <div class="navbar-nav ml-lg-auto mr--10">
           <ul class="navbar-nav main-menu">

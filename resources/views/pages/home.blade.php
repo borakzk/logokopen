@@ -33,11 +33,11 @@
                 </div>
                 <div class="col-lg-7 order-lg-1" data-aos="fade-right" data-aos-duration="500" data-aos-once="true">
                   <div class="hero-content py--50">
-                    <h1 class="title">Redesigned,
-                      how you build landing page!</h1>
-                    <p>Create custom landing pages with Omega that convert more visitors than any website. With lots of unique blocks, you can easily build a page without coding.</p>
+                    <h1 class="title">Logo laten ontwerpen</h1>
+                    <p>Een logo is het eerste wat klanten te zien krijgen als ze kennismaken met een nieuw bedrijf.
+                      Een goed ontworpen logo vertelt dan ook direct waar u voor staat, wat u aanbiedt en wat uw bedrijf uniek maakt. </p>
                     <div class="hero-btn">
-                      <a href="#" class="btn--primary hvr-bounce-to-left">Get Started</a>
+                      <a href="#" class="btn--primary hvr-bounce-to-left">Klaar om te starten?</a>
                       <a href="https://vimeo.com/191947042" class="excerpt video-link" data-fancybox><i class="icon icon-triangle-right-17-2"></i> Watch the intro video</a>
                     </div>
                   </div>
@@ -45,33 +45,7 @@
               </div>
             </div>
           </div>
-          <!-- Clients Brands Area -->
-          <div class="brands-area">
-            <div class="brand-title-wrapper">
-              <div class="container">
-                <h3 class="brand-title">Popular teams who use Omega for appoinments </h3>
-              </div>
-            </div>
-            <div class="container">
-              <div class="brand-logos">
-                <div class="single-brand">
-                  <img src="{{ asset('/assets/image/png/l1-brand1.png') }}" alt="">
-                </div>
-                <div class="single-brand">
-                  <img src="{{ asset('/assets/image/png/l1-brand2.png') }}" alt="">
-                </div>
-                <div class="single-brand">
-                  <img src="{{ asset('/assets/image/png/l1-brand3.png') }}" alt="">
-                </div>
-                <div class="single-brand">
-                  <img src="{{ asset('/assets/image/png/l1-brand4.png') }}" alt="">
-                </div>
-                <div class="single-brand">
-                  <img src="{{ asset('/assets/image/png/l1-brand5.png') }}" alt="">
-                </div>
-              </div>
-            </div>
-          </div>
+   
           <!-- Feature section -->
           <div class="feature-section section-padding">
             <div class="shape-1" data-aos="fade-left" data-aos-duration="400" data-aos-once="true">
@@ -84,8 +58,8 @@
               <div class="row align-items-center">
                 <div class="col-lg-6 pl-lg--40 order-lg-2">
                   <div class="feature-content section-title">
-                    <h2 class="title">Build a perfect landing page.</h2>
-                    <p class="">Create custom landing pages with Omega that converts more visitors than any website. With lots of unique blocks, you can easily build a page without coding.</p>
+                    <h2 class="title">Professionele logo’s voor goedkope prijzen</h2>
+                    <p class="">Wij zijn de snelste en meest persoonlijke oplossing op de markt! Als Logokupon bieden wij de beste prijzen. Zo heeft u al een logo vanaf €29,- inclusief twee revisies! </p>
                     <div class="content-btn">
                       <a href="#" class="btn--secondary hvr-bounce-to-left">Check all features</a>
                     </div>
@@ -100,8 +74,8 @@
                             <img src="{{ asset('/assets/image/png/icon-layout-red.png') }}" alt="">
                           </div>
                           <div class="card-text">
-                            <h3 class="title">Multiple Layouts</h3>
-                            <p>With lots of unique blocks, you can easily build a page without coding.</p>
+                            <h3 class="title">Unique Desing</h3>
+                            <p>Logolar tamamen size özel, benzersiz ve profesyonel şekilde hazırlanır.</p>
                           </div>
                         </div>
                       </div>
@@ -111,8 +85,8 @@
                             <img src="{{ asset('/assets/image/png/icon-sidebar-yellow.png') }}" alt="">
                           </div>
                           <div class="card-text">
-                            <h3 class="title">Fully Responsive</h3>
-                            <p>With lots of unique blocks, you can easily build a page without coding.</p>
+                            <h3 class="title">Fully Vectorel</h3>
+                            <p>Özel tasarım logolarınız 3 farklı formatta, vektörel şekilde teslim edilir.</p>
                           </div>
                         </div>
                       </div>
@@ -122,8 +96,8 @@
                             <img src="{{ asset('/assets/image/png/icon-brookmark-blue.png') }}" alt="">
                           </div>
                           <div class="card-text">
-                            <h3 class="title">Well Documented</h3>
-                            <p>With lots of unique blocks, you can easily build a page without coding.</p>
+                            <h3 class="title">Fast and Easy</h3>
+                            <p>Logo detay aşamalarınızı tamamladıktan 24 saat sonra profesyonel logonuz hazır.</p>
                           </div>
                         </div>
                       </div>
@@ -134,7 +108,7 @@
                           </div>
                           <div class="card-text">
                             <h3 class="title">Great Support</h3>
-                            <p>With lots of unique blocks, you can easily build a page without coding.</p>
+                            <p>Tasarım aşamaları ile ilgili tüm sorunlarınız için destek veriyoruz.</p>
                           </div>
                         </div>
                       </div>
