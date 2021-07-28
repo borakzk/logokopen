@@ -1,6 +1,7 @@
 <?php
 
 use Illuminate\Support\Facades\Route;
+use App\Http\Controllers\UserController;
 
 /*
 |--------------------------------------------------------------------------
@@ -32,3 +33,25 @@ Route::get('pricing', function () {
 Route::get('how-it-works', function () {
     return view('pages.howitworks');
 });
+
+
+
+Route::get('confirm', function () {
+    return view('order.confirm');
+});
+
+Route::get('checkout', function () {
+    return view('order.checkout');
+});
+
+Route::get('complete', function () {
+    return view('order.complete');
+});
+
+Route::get('download', function () {
+    return view('order.download');
+});
+
+
+Route::get('start','App\Http\Controllers\OrderController@formCreate');
+Route::post('create','App\Http\Controllers\OrderController@formSave')->name('formSave');

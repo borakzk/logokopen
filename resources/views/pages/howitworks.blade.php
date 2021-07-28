@@ -15,150 +15,63 @@
       </div>
     </div>
   </div>
-  <div class="video-area">
+
+  <div class="landing-7 position-relative">
+  <div class="content-section">
     <div class="container">
-      <div class="section-title pb--40">
-        <h2 class="title">Watch how we work here.</h2>
-        <div class="right-side">
-          <p>These companies release their own versions of the operating systems with minor changes, and yet always with the same bottom line. </p>
-        </div>
-      </div>
-      <div class="video-image mb-lg--80 mb--45">
-        <img src="image/png/video-image-2.png" alt="">
-        <a href="#" data-fancybox=""><i class="icon icon-triangle-right-17-2"></i></a>
-      </div>
-    </div>
-  </div>
-  <!-- Feature section -->
-  <div class="feature-section">
-    <div class="container">
-      <div class="row">
-        <div class="col-lg-6 col-xl-4 col-md-6 mb--40">
-          <div class="feature--widget">
-            <div class="widget__icon">
-              <span class="inner-circle circle-bg-blue"></span>
-              <span class="outer-circle circle-bg-blue"></span>
-            </div>
-            <div class="widget__body">
-              <h3 class="widget__heading h6">Work from anywhere</h3>
-              <p>Many of us are able to work from home, a café, or a park whenever we want. Yay freedom!</p>
-            </div>
+      <div class="row ">
+        <div class="col-lg-6 mb--30 mb--md-0 order-lg-2">
+          <div class="content-image aos-init aos-animate" data-aos="fade-right" data-aos-duration="500" data-aos-delay="200" data-aos-once="true">
+            <img src="{{ asset('/assets/image/png/l7-mobile.png') }}" alt="">
           </div>
         </div>
-        <div class="col-lg-6 col-xl-4 col-md-6 mb--40">
-          <div class="feature--widget">
-            <div class="widget__icon">
-              <span class="inner-circle circle-bg-red"></span>
-              <span class="outer-circle circle-bg-red"></span>
-            </div>
-            <div class="widget__body">
-              <h3 class="widget__heading h6">Flexible hours</h3>
-              <p>Many of us are able to work from home, a café, or a park whenever we want. Yay freedom!</p>
-            </div>
-          </div>
-        </div>
-        <div class="col-lg-6 col-xl-4 col-md-6 mb--40">
-          <div class="feature--widget">
-            <div class="widget__icon">
-              <span class="inner-circle circle-bg-yellow"></span>
-              <span class="outer-circle circle-bg-yellow"></span>
-            </div>
-            <div class="widget__body">
-              <h3 class="widget__heading h6">Work and travel</h3>
-              <p>Many of us are able to work from home, a café, or a park whenever we want. Yay freedom!</p>
-            </div>
-          </div>
-        </div>
-        <div class="col-lg-6 col-xl-4 col-md-6 mb--40">
-          <div class="feature--widget">
-            <div class="widget__icon">
-              <span class="inner-circle circle-bg-green"></span>
-              <span class="outer-circle circle-bg-green"></span>
-            </div>
-            <div class="widget__body">
-              <h3 class="widget__heading h6">Paid parental leave</h3>
-              <p>Many of us are able to work from home, a café, or a park whenever we want. Yay freedom!</p>
-            </div>
-          </div>
-        </div>
-        <div class="col-lg-6 col-xl-4 col-md-6 mb--40">
-          <div class="feature--widget">
-            <div class="widget__icon">
-              <span class="inner-circle circle-bg-ash"></span>
-              <span class="outer-circle circle-bg-ash"></span>
-            </div>
-            <div class="widget__body">
-              <h3 class="widget__heading h6">Yearly bonuses</h3>
-              <p>Many of us are able to work from home, a café, or a park whenever we want. Yay freedom!</p>
-            </div>
-          </div>
-        </div>
-        <div class="col-lg-6 col-xl-4 col-md-6 mb--40">
-          <div class="feature--widget">
-            <div class="widget__icon">
-              <span class="inner-circle circle-bg-blue"></span>
-              <span class="outer-circle circle-bg-blue"></span>
-            </div>
-            <div class="widget__body">
-              <h3 class="widget__heading h6">Smart salary</h3>
-              <p>Many of us are able to work from home, a café, or a park whenever we want. Yay freedom!</p>
-            </div>
+        <div class="col-lg-6 col-md-9 order-lg-1">
+          <div class="content-text">
+            <h2 class="title">Fits everything on <br class="d-none d-sm-block d-md-none d-xl-block"> all your devices.</h2>
+              <p>Create custom landing pages with Omega that converts more visitors than any website. With lots of unique blocks, you can easily build a page without coding.</p>
+              <div class="content-widget">
+                <div class="single-widget">
+                  <h3 class="w-title">Find your trip partner</h3>
+                  <p>With lots of unique blocks, you can easily build a page without coding. Build your next landing page quickly.</p>
+                </div>
+                <div class="single-widget">
+                  <h3 class="w-title">Plan trip with easy steps</h3>
+                  <p>With lots of unique blocks, you can easily build a page without coding. Build your next landing page quickly.</p>
+                </div>
+              </div>
           </div>
         </div>
       </div>
     </div>
   </div>
-  <!-- Job section -->
-  <div class="job-section">
+
+
+  <div class="content-section-2">
     <div class="container">
-      <div class="row justify-content-center">
-        <div class="col-lg-6 text-center">
-          <div class="section-title">
-            <h2 class="title">Open roles</h2>
-            <p>These companies release their own versions of the operating systems with minor changes, and yet always.</p>
+      <div class="row align-items-center">
+        <div class="col-lg-6 mb--30 mb--md-0">
+          <div class="content-image-2 content-image-group">
+            <div class="single-image">
+              <img src="{{ asset('/assets/image/png/l7-content2-image-1.png') }}" alt="" data-aos="zoom-in" data-aos-duration="500" data-aos-once="true">
+              <img src="{{ asset('/assets/image/png/l7-content2-image-2.png') }}" alt="" data-aos="zoom-in" data-aos-duration="500" data-aos-delay="600" data-aos-once="true">
+            </div>
+            <div class="single-image">
+              <img src="{{ asset('/assets/image/png/l7-content2-image-3.png') }}" alt="" data-aos="zoom-in" data-aos-duration="500" data-aos-delay="1000" data-aos-once="true">
+              <img src="{{ asset('/assets/image/png/l7-content2-image-4.png') }}" alt="" data-aos="zoom-in" data-aos-duration="500" data-aos-delay="1500" data-aos-once="true">
+            </div>
           </div>
         </div>
-      </div>
-      <div class="row mt-lg--30">
-        <div class="col-lg-4 col-md-6 pt--30">
-          <a class="card-job top-only" href="#">
-            <div class="d-flex justify-content-between align-items-center mb--25"><span class="location"><i class="icon icon-pin-3 mr--5"></i> South Haven, USA</span><span class="badge blue">Full-time</span></div>
-            <h5 class="h5">Senior UX Designer</h5>
-          </a>
-        </div>
-        <div class="col-lg-4 col-md-6 pt--30">
-          <a class="card-job top-only" href="#">
-            <div class="d-flex justify-content-between align-items-center mb--25"><span class="location"><i class="icon icon-pin-3 mr--5"></i> South Haven, USA</span><span class="badge red">Part-time</span></div>
-            <h5 class="h5">Senior UX Designer</h5>
-          </a>
-        </div>
-        <div class="col-lg-4 col-md-6 pt--30">
-          <a class="card-job top-only" href="#">
-            <div class="d-flex justify-content-between align-items-center mb--25"><span class="location"><i class="icon icon-pin-3 mr--5"></i> South Haven, USA</span><span class="badge red">Part-time</span></div>
-            <h5 class="h5">Senior UX Designer</h5>
-          </a>
-        </div>
-        <div class="col-lg-4 col-md-6 pt--30">
-          <a class="card-job top-only" href="#">
-            <div class="d-flex justify-content-between align-items-center mb--25"><span class="location"><i class="icon icon-pin-3 mr--5"></i> South Haven, USA</span><span class="badge red">Part-time</span></div>
-            <h5 class="h5">Senior UX Designer</h5>
-          </a>
-        </div>
-        <div class="col-lg-4 col-md-6 pt--30">
-          <a class="card-job top-only" href="#">
-            <div class="d-flex justify-content-between align-items-center mb--25"><span class="location"><i class="icon icon-pin-3 mr--5"></i> South Haven, USA</span><span class="badge green">Remote</span></div>
-            <h5 class="h5">Senior UX Designer</h5>
-          </a>
-        </div>
-        <div class="col-lg-4 col-md-6 pt--30">
-          <a class="card-job top-only" href="#">
-            <div class="d-flex justify-content-between align-items-center mb--25"><span class="location"><i class="icon icon-pin-3 mr--5"></i> South Haven, USA</span><span class="badge blue">Full-time</span></div>
-            <h5 class="h5">Senior UX Designer</h5>
-          </a>
+        <div class="col-lg-6 col-md-9 ">
+          <div class="content-text">
+            <h2 class="title">See the world & <br class="d-none d-sm-block d-md-none d-xl-block">spend less always.</h2>
+              <p>Create custom landing pages with Omega that converts more visitors than any website. With lots of unique blocks, you can easily build a page without coding.</p>
+          </div>
         </div>
       </div>
     </div>
   </div>
- 
+
+
+</div>
 
 @stop
